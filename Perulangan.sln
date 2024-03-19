@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping2", "Looping2\Loopin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping3", "Looping3\Looping3.vcxproj", "{8B298E29-F71C-48E6-B2C2-D4143F96A2BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PersegiPanjang", "PersegiPanjang\PersegiPanjang.vcxproj", "{7632833A-93D2-4577-96B5-0BD4A326C41B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{8B298E29-F71C-48E6-B2C2-D4143F96A2BC}.Release|x64.Build.0 = Release|x64
 		{8B298E29-F71C-48E6-B2C2-D4143F96A2BC}.Release|x86.ActiveCfg = Release|Win32
 		{8B298E29-F71C-48E6-B2C2-D4143F96A2BC}.Release|x86.Build.0 = Release|Win32
+		{7632833A-93D2-4577-96B5-0BD4A326C41B}.Debug|x64.ActiveCfg = Debug|x64
+		{7632833A-93D2-4577-96B5-0BD4A326C41B}.Debug|x64.Build.0 = Debug|x64
+		{7632833A-93D2-4577-96B5-0BD4A326C41B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7632833A-93D2-4577-96B5-0BD4A326C41B}.Debug|x86.Build.0 = Debug|Win32
+		{7632833A-93D2-4577-96B5-0BD4A326C41B}.Release|x64.ActiveCfg = Release|x64
+		{7632833A-93D2-4577-96B5-0BD4A326C41B}.Release|x64.Build.0 = Release|x64
+		{7632833A-93D2-4577-96B5-0BD4A326C41B}.Release|x86.ActiveCfg = Release|Win32
+		{7632833A-93D2-4577-96B5-0BD4A326C41B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
